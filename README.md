@@ -1,1 +1,1 @@
-# A very simole calculator.
+# A very simple calculator.
